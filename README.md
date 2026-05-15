@@ -29,9 +29,9 @@ To run the automated data pipeline and generate the Star Schema files, follow th
 3. Open your terminal and navigate to the root directory of this repository.
 4. Run the main script by executing:
    ```bash
-   python pipeline/main.py
+   python code_pipeline/main.py
    ```
-   *The script will process the raw data and output the final fact and dimension tables into the `pipeline/output/` directory.*
+   *The script will process the raw data and output the final fact and dimension tables into the `code_pipeline/output/` directory.*
 
 ## Pipeline Breakdown
 Here is exactly what `main.py` does to construct our Star Schema:
