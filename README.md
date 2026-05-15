@@ -14,7 +14,7 @@ This repository contains the data processing pipeline and Tableau dashboard for 
 ## Repository Structure
 ```text
 .
-├── source_data/           # Put your downloaded Kaggle CSVs here
+├── source_data/           # The downloaded Kaggle CSVs are here
 ├── code_pipeline/         # Contains the Python ETL script
 │   ├── main.py
 │   └── output/            # The generated Star Schema CSVs will appear here
@@ -25,7 +25,7 @@ This repository contains the data processing pipeline and Tableau dashboard for 
 To run the automated data pipeline and generate the Star Schema files, follow these steps:
 
 1. Ensure Python and `pandas` are installed on your machine.
-2. Download the source datasets from the links above and place them in the `source_data/` folder.
+2. Download the source datasets from the links above and place them in the `data/` folder.
 3. Open your terminal and navigate to the root directory of this repository.
 4. Run the main script by executing:
    ```bash
