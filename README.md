@@ -14,7 +14,7 @@ This repository contains the data processing pipeline and Tableau dashboard for 
 ## Repository Structure
 ```text
 .
-├── source_data/           # Put your downloaded Kaggle CSVs here
+├── source_data/           # The downloaded Kaggle CSVs are here
 ├── code_pipeline/         # Contains the Python ETL script
 │   ├── main.py
 │   └── output/            # The generated Star Schema CSVs will appear here
