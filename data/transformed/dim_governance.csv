@@ -1,0 +1,8 @@
+governance_key,corruption_tier,freedom_tier
+GOV00,Unknown,Unknown
+GOV01,High,High
+GOV02,High,Low
+GOV03,Low,High
+GOV04,Low,Low
+GOV05,Medium,High
+GOV06,Medium,Low

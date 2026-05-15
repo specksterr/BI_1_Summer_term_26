@@ -1,0 +1,167 @@
+country_key,country_name,iso_code,regional_indicator
+G0001,Afghanistan,AFG,South Asia
+G0002,Albania,ALB,Central and Eastern Europe
+G0003,Algeria,DZA,Middle East and North Africa
+G0004,Angola,AGO,Unknown
+G0005,Argentina,ARG,Latin America and Caribbean
+G0006,Armenia,ARM,Commonwealth of Independent States
+G0007,Australia,AUS,North America and ANZ
+G0008,Austria,AUT,Western Europe
+G0009,Azerbaijan,AZE,Commonwealth of Independent States
+G0010,Bahrain,BHR,Middle East and North Africa
+G0011,Bangladesh,BGD,South Asia
+G0012,Belarus,BLR,Commonwealth of Independent States
+G0013,Belgium,BEL,Western Europe
+G0014,Belize,BLZ,Unknown
+G0015,Benin,BEN,Sub-Saharan Africa
+G0016,Bhutan,BTN,Unknown
+G0017,Bolivia,BOL,Latin America and Caribbean
+G0018,Bosnia and Herzegovina,BIH,Central and Eastern Europe
+G0019,Botswana,BWA,Sub-Saharan Africa
+G0020,Brazil,BRA,Latin America and Caribbean
+G0021,Bulgaria,BGR,Central and Eastern Europe
+G0022,Burkina Faso,BFA,Sub-Saharan Africa
+G0023,Burundi,BDI,Sub-Saharan Africa
+G0024,Cambodia,KHM,Southeast Asia
+G0025,Cameroon,CMR,Sub-Saharan Africa
+G0026,Canada,CAN,North America and ANZ
+G0027,Central African Republic,CAF,Unknown
+G0028,Chad,TCD,Sub-Saharan Africa
+G0029,Chile,CHL,Latin America and Caribbean
+G0030,China,CHN,East Asia
+G0031,Colombia,COL,Latin America and Caribbean
+G0032,Comoros,COM,Sub-Saharan Africa
+G0033,Congo (Brazzaville),COG,Sub-Saharan Africa
+G0034,Congo (Kinshasa),COD,Unknown
+G0035,Costa Rica,CRI,Latin America and Caribbean
+G0036,Croatia,HRV,Central and Eastern Europe
+G0037,Cuba,CUB,Unknown
+G0038,Cyprus,CYP,Western Europe
+G0039,Czech Republic,CZE,Central and Eastern Europe
+G0040,Denmark,DNK,Western Europe
+G0041,Djibouti,DJI,Unknown
+G0042,Dominican Republic,DOM,Latin America and Caribbean
+G0043,Ecuador,ECU,Latin America and Caribbean
+G0044,Egypt,EGY,Middle East and North Africa
+G0045,El Salvador,SLV,Latin America and Caribbean
+G0046,Estonia,EST,Central and Eastern Europe
+G0047,Ethiopia,ETH,Sub-Saharan Africa
+G0048,Finland,FIN,Western Europe
+G0049,France,FRA,Western Europe
+G0050,Gabon,GAB,Sub-Saharan Africa
+G0051,Gambia,GMB,Sub-Saharan Africa
+G0052,Georgia,GEO,Commonwealth of Independent States
+G0053,Germany,DEU,Western Europe
+G0054,Ghana,GHA,Sub-Saharan Africa
+G0055,Greece,GRC,Western Europe
+G0056,Guatemala,GTM,Latin America and Caribbean
+G0057,Guinea,GIN,Sub-Saharan Africa
+G0058,Guyana,GUY,Unknown
+G0059,Haiti,HTI,Latin America and Caribbean
+G0060,Honduras,HND,Latin America and Caribbean
+G0061,Hong Kong S.A.R. of China,HKG,East Asia
+G0062,Hungary,HUN,Central and Eastern Europe
+G0063,Iceland,ISL,Western Europe
+G0064,India,IND,South Asia
+G0065,Indonesia,IDN,Southeast Asia
+G0066,Iran,IRN,Middle East and North Africa
+G0067,Iraq,IRQ,Middle East and North Africa
+G0068,Ireland,IRL,Western Europe
+G0069,Israel,ISR,Middle East and North Africa
+G0070,Italy,ITA,Western Europe
+G0071,Ivory Coast,CIV,Sub-Saharan Africa
+G0072,Jamaica,JAM,Latin America and Caribbean
+G0073,Japan,JPN,East Asia
+G0074,Jordan,JOR,Middle East and North Africa
+G0075,Kazakhstan,KAZ,Commonwealth of Independent States
+G0076,Kenya,KEN,Sub-Saharan Africa
+G0077,Kosovo,XKX,Central and Eastern Europe
+G0078,Kuwait,KWT,Middle East and North Africa
+G0079,Kyrgyzstan,KGZ,Commonwealth of Independent States
+G0080,Laos,LAO,Southeast Asia
+G0081,Latvia,LVA,Central and Eastern Europe
+G0082,Lebanon,LBN,Middle East and North Africa
+G0083,Lesotho,LSO,Sub-Saharan Africa
+G0084,Liberia,LBR,Sub-Saharan Africa
+G0085,Libya,LBY,Middle East and North Africa
+G0086,Lithuania,LTU,Central and Eastern Europe
+G0087,Luxembourg,LUX,Western Europe
+G0088,Madagascar,MDG,Sub-Saharan Africa
+G0089,Malawi,MWI,Sub-Saharan Africa
+G0090,Malaysia,MYS,Southeast Asia
+G0091,Maldives,MDV,South Asia
+G0092,Mali,MLI,Sub-Saharan Africa
+G0093,Malta,MLT,Western Europe
+G0094,Mauritania,MRT,Sub-Saharan Africa
+G0095,Mauritius,MUS,Sub-Saharan Africa
+G0096,Mexico,MEX,Latin America and Caribbean
+G0097,Moldova,MDA,Commonwealth of Independent States
+G0098,Mongolia,MNG,East Asia
+G0099,Montenegro,MNE,Central and Eastern Europe
+G0100,Morocco,MAR,Middle East and North Africa
+G0101,Mozambique,MOZ,Sub-Saharan Africa
+G0102,Myanmar,MMR,Southeast Asia
+G0103,Namibia,NAM,Sub-Saharan Africa
+G0104,Nepal,NPL,South Asia
+G0105,Netherlands,NLD,Western Europe
+G0106,New Zealand,NZL,North America and ANZ
+G0107,Nicaragua,NIC,Latin America and Caribbean
+G0108,Niger,NER,Sub-Saharan Africa
+G0109,Nigeria,NGA,Sub-Saharan Africa
+G0110,North Cyprus,,Western Europe
+G0111,North Macedonia,MKD,Central and Eastern Europe
+G0112,Norway,NOR,Western Europe
+G0113,Oman,OMN,Unknown
+G0114,Pakistan,PAK,South Asia
+G0115,Palestinian Territories,PSE,Middle East and North Africa
+G0116,Panama,PAN,Latin America and Caribbean
+G0117,Paraguay,PRY,Latin America and Caribbean
+G0118,Peru,PER,Latin America and Caribbean
+G0119,Philippines,PHL,Southeast Asia
+G0120,Poland,POL,Central and Eastern Europe
+G0121,Portugal,PRT,Western Europe
+G0122,Qatar,QAT,Unknown
+G0123,Romania,ROU,Central and Eastern Europe
+G0124,Russia,RUS,Commonwealth of Independent States
+G0125,Rwanda,RWA,Sub-Saharan Africa
+G0126,Saudi Arabia,SAU,Middle East and North Africa
+G0127,Senegal,SEN,Sub-Saharan Africa
+G0128,Serbia,SRB,Central and Eastern Europe
+G0129,Sierra Leone,SLE,Sub-Saharan Africa
+G0130,Singapore,SGP,Southeast Asia
+G0131,Slovakia,SVK,Central and Eastern Europe
+G0132,Slovenia,SVN,Central and Eastern Europe
+G0133,Somalia,SOM,Unknown
+G0134,Somaliland region,,Unknown
+G0135,South Africa,ZAF,Sub-Saharan Africa
+G0136,South Korea,KOR,East Asia
+G0137,South Sudan,SSD,Unknown
+G0138,Spain,ESP,Western Europe
+G0139,Sri Lanka,LKA,South Asia
+G0140,Sudan,SDN,Unknown
+G0141,Suriname,SUR,Unknown
+G0142,Swaziland,SWZ,Sub-Saharan Africa
+G0143,Sweden,SWE,Western Europe
+G0144,Switzerland,CHE,Western Europe
+G0145,Syria,SYR,Unknown
+G0146,Taiwan Province of China,TWN,East Asia
+G0147,Tajikistan,TJK,Commonwealth of Independent States
+G0148,Tanzania,TZA,Sub-Saharan Africa
+G0149,Thailand,THA,Southeast Asia
+G0150,Togo,TGO,Sub-Saharan Africa
+G0151,Trinidad and Tobago,TTO,Unknown
+G0152,Tunisia,TUN,Middle East and North Africa
+G0153,Turkey,TUR,Middle East and North Africa
+G0154,Turkmenistan,TKM,Commonwealth of Independent States
+G0155,Uganda,UGA,Sub-Saharan Africa
+G0156,Ukraine,UKR,Commonwealth of Independent States
+G0157,United Arab Emirates,ARE,Middle East and North Africa
+G0158,United Kingdom,GBR,Western Europe
+G0159,United States,USA,North America and ANZ
+G0160,Uruguay,URY,Latin America and Caribbean
+G0161,Uzbekistan,UZB,Commonwealth of Independent States
+G0162,Venezuela,VEN,Latin America and Caribbean
+G0163,Vietnam,VNM,Southeast Asia
+G0164,Yemen,YEM,Middle East and North Africa
+G0165,Zambia,ZMB,Sub-Saharan Africa
+G0166,Zimbabwe,ZWE,Sub-Saharan Africa
